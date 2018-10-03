@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 second->third
 third->four
+=======
+>>>>>>> parent of 4ad816b... third
